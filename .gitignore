@@ -97,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Gamedev1/Unity/Olivia-GameDev-1/.vscode
+Gamedev1/Unity/Olivia-GameDev-1/Library
+Gamedev1/Unity/Olivia-GameDev-1/UserSettings
+*.slnx
